@@ -1,2 +1,2 @@
 # Parallel_Asynchronous_java
-Concurrency in java
+Illustration of parallel and asynchronous programing
